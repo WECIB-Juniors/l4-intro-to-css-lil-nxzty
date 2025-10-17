@@ -4,11 +4,25 @@
 /* This ruleset defines the styling for the entire body of your HTML document. */
 body {
     /* Change this background-color. */
-    background-color: white;
+    background-color: #8615D1;
 }
 
+button {
+    color: pink;
+    background-color: black;
+}
 /* This defines styling for all your p elements */
 
 p {
+background-color: white;
+color: teal;
+}
 
+li {
+    color: #CC5500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #0096FF;
 }
